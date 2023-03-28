@@ -33,10 +33,12 @@ class SebulbasPod(Podracer):
 Make sure to answer the following prompts about your coding experience:
 
 How does this solution demonstrate the four pillars of OOP? (It may not demonstrate all of them, describe only those that apply)
+#There are four pillars of object-oriented programming. Inheritance, polymorphism, encapsulation, and abstraction make up these four pillars.
 
 Would it have been easier to implement a solution to this problem using a different coding style? Why or why not?
+#No because only this coding style has a easy and understable syntax rather then other coding style or language.
 
 How in particular did Object Oriented Programming assist in the solving of this problem?
-
+#OOP allows us to break our problems into small unit of work that is represented via objects and their functions.
 '''
 

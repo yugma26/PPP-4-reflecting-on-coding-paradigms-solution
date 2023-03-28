@@ -11,7 +11,6 @@ def flatten_and_sort(array):
 Make sure to answer the following questions about your coding process:
 
 How does this solution ensure data immutability?
-
 #The data saved in an immutable storage format remains fixed due to the WORM (write-once-read-many) mechanism.
 
 Is this solution a pure function? Why or why not?
